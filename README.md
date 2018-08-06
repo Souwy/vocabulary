@@ -1,11 +1,11 @@
 # vocabulary
-
-primitive types:      
+variables
+primitive data-types:      
 type:   
 value:   
 operator:   
 operand:   
-
+hoisting
 ### Primitive types
 Undefined: only one value, undefined  
 Null: only one value, null   
